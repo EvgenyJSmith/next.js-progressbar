@@ -1,3 +1,5 @@
+// процент скрола документа
+
 import { useEffect, useState } from "react"
 
 import { usePathname, useSearchParams } from 'next/navigation'
